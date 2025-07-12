@@ -1,5 +1,5 @@
 {
-  "name": "react-video-editor",
+  "name": "@drjaat/react-video-editor",
   "version": "0.1.0",
   "description": "A React video editor component that can be integrated into any React application",
   "main": "dist/index.js",
@@ -103,5 +103,8 @@
     "url": "https://github.com/drjaat/video-editor.git"
   },
   "author": "Dhruv Rana",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
